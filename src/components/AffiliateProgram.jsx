@@ -100,7 +100,7 @@ export default function AffiliateProgram() {
                     <ul className="space-y-4">
                         <li className="flex items-center gap-3">
                             <Mail className="text-[#D946EF]" size={20} />
-                            <span>Email: <a href="mailto:support@crivient.com" className="text-[#D946EF] hover:underline">support@crivient.com</a></span>
+                            <span>Email: <a href="mailto:support@crivient.cloud" className="text-[#D946EF] hover:underline">support@crivient.cloud</a></span>
                         </li>
                         <li className="flex items-center gap-3">
                             <Phone className="text-[#D946EF]" size={20} />

@@ -89,7 +89,7 @@ export default function Contact() {
 
             <div className="space-y-2">
               <label className="text-sm font-semibold text-gray-300">Email Address</label>
-              <input type="email" className="w-full px-4 py-3 rounded-lg border border-gray-600 bg-gray-800 text-white focus:ring-2 focus:ring-[#D946EF] focus:border-transparent outline-none transition-all" placeholder="support@crivient.cloud" />
+              <input type="email" className="w-full px-4 py-3 rounded-lg border border-gray-600 bg-gray-800 text-white focus:ring-2 focus:ring-[#D946EF] focus:border-transparent outline-none transition-all" placeholder="Enter Email Address" />
             </div>
 
             <div className="space-y-2">
