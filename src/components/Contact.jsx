@@ -39,7 +39,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-bold text-white">Email</p>
-                  <p className="text-gray-400">support@crivient.com</p>
+                  <p className="text-gray-400">support@crivient.cloud</p>
                 </div>
               </div>
 
@@ -79,17 +79,17 @@ export default function Contact() {
             <div className="grid md:grid-cols-2 gap-6">
               <div className="space-y-2">
                 <label className="text-sm font-semibold text-gray-300">First Name</label>
-                <input type="text" className="w-full px-4 py-3 rounded-lg border border-gray-600 bg-gray-800 text-white focus:ring-2 focus:ring-[#D946EF] focus:border-transparent outline-none transition-all" placeholder="Kishan" />
+                <input type="text" className="w-full px-4 py-3 rounded-lg border border-gray-600 bg-gray-800 text-white focus:ring-2 focus:ring-[#D946EF] focus:border-transparent outline-none transition-all" placeholder="Enter First Name" />
               </div>
               <div className="space-y-2">
                 <label className="text-sm font-semibold text-gray-300">Last Name</label>
-                <input type="text" className="w-full px-4 py-3 rounded-lg border border-gray-600 bg-gray-800 text-white focus:ring-2 focus:ring-[#D946EF] focus:border-transparent outline-none transition-all" placeholder="Jangid" />
+                <input type="text" className="w-full px-4 py-3 rounded-lg border border-gray-600 bg-gray-800 text-white focus:ring-2 focus:ring-[#D946EF] focus:border-transparent outline-none transition-all" placeholder="Enter Last Name" />
               </div>
             </div>
 
             <div className="space-y-2">
               <label className="text-sm font-semibold text-gray-300">Email Address</label>
-              <input type="email" className="w-full px-4 py-3 rounded-lg border border-gray-600 bg-gray-800 text-white focus:ring-2 focus:ring-[#D946EF] focus:border-transparent outline-none transition-all" placeholder="kishan@company.com" />
+              <input type="email" className="w-full px-4 py-3 rounded-lg border border-gray-600 bg-gray-800 text-white focus:ring-2 focus:ring-[#D946EF] focus:border-transparent outline-none transition-all" placeholder="support@crivient.cloud" />
             </div>
 
             <div className="space-y-2">
