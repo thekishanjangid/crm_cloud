@@ -63,6 +63,7 @@ export default function Footer() {
           <Link to="/terms-services">Terms & Services</Link>
           <Link to="/refund-policy">Refund Policy</Link>
           <Link to="/privacy-policy">Privacy Policy</Link>
+          <Link to="/affiliate-program">Affiliate Program</Link>
         </div>
 
         <p className="text-sm text-gray-400">© 2026 Crivient LLC.</p>

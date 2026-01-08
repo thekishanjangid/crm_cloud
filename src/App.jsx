@@ -17,6 +17,8 @@ import TermsServices from "./components/TermsServices"
 import RefundPolicy from "./components/RefundPolicy"
 import PrivacyPolicy from "./components/PrivacyPolicy"
 import RequestDemo from "./components/RequestDemo"
+import AffiliateProgram from "./components/AffiliateProgram"
+import CookieConsent from "./components/CookieConsent"
 
 export default function App() {
   return (
@@ -45,9 +47,11 @@ export default function App() {
             <Route path="/pricing" element={<Pricing />} />
             <Route path="/request-demo" element={<RequestDemo />} />
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+            <Route path="/affiliate-program" element={<AffiliateProgram />} />
           </Routes>
         </main>
         <Footer />
+        <CookieConsent />
       </div>
     </Router>
   );
